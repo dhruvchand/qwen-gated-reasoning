@@ -1,0 +1,6 @@
+transformers>=4.37.0
+accelerate
+datasets
+scikit-learn
+sentencepiece
+safetensors
